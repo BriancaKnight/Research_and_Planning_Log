@@ -4,3 +4,4 @@
 * 9:30: Research/begin downloading Xcode
 * 10:00: Codecademy's Conditionals lessons (11 total)
 * 11:30: freeCodeCamp's Variables, Objects, Operators 
+* 1:00: freeCodeCamp's Conditionals
