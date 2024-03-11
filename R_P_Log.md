@@ -8,3 +8,4 @@
 * 1:00: freeCodeCamp's Conditionals
 * 1:30: Codecademy's Logical Operators (7 lessons) & Update Mac Software for XCode compatibility 
 * 3:30: Fill out Capstone Sign-up page
+* 4:00: Codecademy's Loops (9 lessons) & freeCodeCamp's Loops
