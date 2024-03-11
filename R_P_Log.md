@@ -4,4 +4,6 @@
 * 9:30: Research/begin downloading Xcode
 * 10:00: Codecademy's Conditionals lessons (11 total)
 * 11:30: freeCodeCamp's Variables, Objects, Operators 
+------- LUNCH -------
 * 1:00: freeCodeCamp's Conditionals
+* 1:30: Codecademy's Logical Operators (7 lessons) & Update Mac Software for XCode compatibility 
