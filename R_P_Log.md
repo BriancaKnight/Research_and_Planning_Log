@@ -9,3 +9,6 @@
 * 1:30: Codecademy's Logical Operators (7 lessons) & Update Mac Software for XCode compatibility 
 * 3:30: Fill out Capstone Sign-up page
 * 4:00: Codecademy's Loops (9 lessons) & freeCodeCamp's Loops
+
+#### Tuesday, 03/12
+* 8:00: Warm up- revisit currying in LHTP and these videos https://www.youtube.com/watch?v=iZLP4qOwY8I https://www.youtube.com/watch?v=I4MebkHvj8g
