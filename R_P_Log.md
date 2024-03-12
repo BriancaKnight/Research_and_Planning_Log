@@ -20,3 +20,4 @@
 ------- LUNCH -------
 * 1:00: freeCodeCamp's Arrays and Sets
 * 1:15: Codecademy's Dictionary lessons (12 lessons)
+* 2:00: freeCodeCamp's Dictionary and Tuples 
