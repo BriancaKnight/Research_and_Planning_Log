@@ -12,3 +12,4 @@
 
 #### Tuesday, 03/12
 * 8:00: Warm up- revisit currying in LHTP and these videos https://www.youtube.com/watch?v=iZLP4qOwY8I https://www.youtube.com/watch?v=I4MebkHvj8g
+* 8:30: Finish Codecademy's Loops
