@@ -21,3 +21,4 @@
 * 1:00: freeCodeCamp's Arrays and Sets
 * 1:15: Codecademy's Dictionary lessons (12 lessons)
 * 2:00: freeCodeCamp's Dictionary and Tuples 
+* 2:30: Xcode Tutorial "Step by Step for Beginners" https://www.youtube.com/watch?v=EJQW864XpmA
