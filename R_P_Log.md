@@ -16,3 +16,7 @@
 * 9:15: freeCodeCamp's Comments, Semicolons, Numbers, Strings, & Booleans
 * 10:00: Codecademy's Arrays lessons (9 lessons)
 * 10:45: Codecademy's Sets lessons (12 lessons)
+* 11:30: Whiteboarding
+------- LUNCH -------
+* 1:00: freeCodeCamp's Arrays and Sets
+* 1:15: Codecademy's Dictionary lessons (12 lessons)
