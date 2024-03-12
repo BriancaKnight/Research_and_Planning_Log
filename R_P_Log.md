@@ -23,3 +23,4 @@
 * 2:00: freeCodeCamp's Dictionary and Tuples 
 * 2:30: Xcode Tutorial "Step by Step for Beginners" https://www.youtube.com/watch?v=EJQW864XpmA
 * 4:00: freeCodeCamp's Optionals and Enumerations
+* 4:30: ARIA HTML Tutorial "What is ARIA & Why it's important to use!" https://www.youtube.com/watch?v=0hqhAIjE_8I
