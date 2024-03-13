@@ -40,3 +40,4 @@
 * 2:45: Start building Tic Tac Toe in Xcode (https://www.youtube.com/watch?v=m6EH-JlCLsQ&list=PLnQbggnVfvo2wIr4kV1h6208xk1pPf2F0)
 * 3:00: Connect xcode to github video https://www.youtube.com/watch?v=m6EH-JlCLsQ&list=PLnQbggnVfvo2wIr4kV1h6208xk1pPf2F0
 * 3:15: Continue Tic Tac Toe
+* 4:00: Debug Xcode/Tic Tac Toe game
