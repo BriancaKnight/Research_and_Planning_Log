@@ -32,3 +32,4 @@
 * 9:15: Codecademy's Function lessons pt.1 (7 lessons)
 * 10:30: freeCodeCamp's functions
 * 10:45: Codecademy's Function lessons pt.2 (7 lessons)
+* 11:30: freeCodeCamp's structures and protocols 
