@@ -28,3 +28,4 @@
 
 #### Wednesday, 03/13
 * 8:00: Warm up- revisit recuursion in LHTP and this video https://www.youtube.com/watch?v=B0NtAFf4bvU
+* 8:30: Revisit  freeCodeCamp's Tuples, Optionals and Enumerations
