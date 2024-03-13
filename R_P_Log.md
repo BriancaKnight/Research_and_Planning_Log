@@ -36,3 +36,4 @@
 ------- LUNCH -------
 * 1:00: Codecademy's Structures lessons (12 lessons)
 * 1:30: Aaron's Whiteboarding
+* 2:00: Codecademy's Classes lessons (8 lessons)
