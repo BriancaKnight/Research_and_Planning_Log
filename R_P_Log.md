@@ -29,4 +29,6 @@
 #### Wednesday, 03/13
 * 8:00: Warm up- revisit recuursion in LHTP and this video https://www.youtube.com/watch?v=B0NtAFf4bvU
 * 8:30: Revisit  freeCodeCamp's Tuples, Optionals and Enumerations
-* 9:15: Codecademy's Function lessons (14 lessons)
+* 9:15: Codecademy's Function lessons pt.1 (7 lessons)
+* 10:30: freeCodeCamp's functions
+* 10:45: Codecademy's Function lessons pt.2 (7 lessons)
