@@ -37,3 +37,5 @@
 * 1:00: Codecademy's Structures lessons (12 lessons)
 * 1:30: Aaron's Whiteboarding
 * 2:00: Codecademy's Classes lessons (8 lessons)
+* 2:45: Start building Tic Tac Toe in Xcode
+* 3:00: Connect xcode to github video https://www.youtube.com/watch?v=m6EH-JlCLsQ&list=PLnQbggnVfvo2wIr4kV1h6208xk1pPf2F0
