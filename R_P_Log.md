@@ -44,3 +44,6 @@
 
 #### Thursday, 03/14
 * 8:00: Revisit Big O notation on LHTP & https://www.youtube.com/watch?v=itn09C2ZB9Y
+* 8:30: Continue debugging xcode
+* 9:00: Cohort Scrum
+* 9:15: Check in with pairs 
