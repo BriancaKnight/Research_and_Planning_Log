@@ -41,3 +41,6 @@
 * 3:00: Connect xcode to github video https://www.youtube.com/watch?v=m6EH-JlCLsQ&list=PLnQbggnVfvo2wIr4kV1h6208xk1pPf2F0
 * 3:15: Continue Tic Tac Toe
 * 4:00: Debug Xcode/Tic Tac Toe game
+
+#### Thursday, 03/14
+* 8:00: Revisit Big O notation on LHTP & https://www.youtube.com/watch?v=itn09C2ZB9Y
