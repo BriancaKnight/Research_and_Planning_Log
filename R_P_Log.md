@@ -55,5 +55,5 @@
 * 1:45: Continue Tic Tac Toe app
 * 3:00: Meeting with Erik
 * 3:15: Finish Tic Tac Toe app
-
+* 4:00: Attempt to debug Xcode
 
