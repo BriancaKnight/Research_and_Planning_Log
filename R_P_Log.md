@@ -48,3 +48,4 @@
 * 9:00: Cohort Scrum
 * 9:15: Check in with pairs 
 * 9:30: Codecademy's Accessiblity (10 lessons)
+* 11:00: Codecademy's Responsive Design (4 lessons)
