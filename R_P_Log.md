@@ -27,7 +27,7 @@
 
 
 #### Wednesday, 03/13
-* 8:00: Warm up- revisit recuursion in LHTP and this video https://www.youtube.com/watch?v=B0NtAFf4bvU
+* 8:00: Warm up- revisit recursion in LHTP and this video https://www.youtube.com/watch?v=B0NtAFf4bvU
 * 8:30: Revisit  freeCodeCamp's Tuples, Optionals and Enumerations
 * 9:15: Codecademy's Function lessons pt.1 (7 lessons)
 * 10:30: freeCodeCamp's functions
@@ -49,3 +49,7 @@
 * 9:15: Check in with pairs 
 * 9:30: Codecademy's Accessiblity (10 lessons)
 * 11:00: Codecademy's Responsive Design (4 lessons)
+* 11:30: Aria/Front-Trends video https://www.youtube.com/watch?v=qdB8SRhqvFc
+------- LUNCH -------
+* 1:00: W3 ARIA overview/practice guide
+
