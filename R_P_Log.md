@@ -52,4 +52,5 @@
 * 11:30: Aria/Front-Trends video https://www.youtube.com/watch?v=qdB8SRhqvFc
 ------- LUNCH -------
 * 1:00: W3 ARIA overview/practice guide
+* 1:45: Continue Tic Tac Toe app
 
