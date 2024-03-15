@@ -60,3 +60,5 @@
 #### Friday, 3/15
 * 10:00: Warm up- revisit Binary trees 
 * 10:30: Continue Debugging Xcode
+------- LUNCH -------
+* 12:00: Begin quiz app
