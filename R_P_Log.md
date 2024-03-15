@@ -62,3 +62,4 @@
 * 10:30: Continue Debugging Xcode
 ------- LUNCH -------
 * 12:00: Begin quiz app
+* 2:00: Un-install and re-install xcode
