@@ -57,3 +57,6 @@
 * 3:15: Finish Tic Tac Toe app
 * 4:00: Attempt to debug Xcode
 
+#### Friday, 3/15
+* 10:00: Warm up- revisit Binary trees 
+* 10:30: Continue Debugging Xcode
