@@ -62,4 +62,5 @@
 * 10:30: Continue Debugging Xcode
 ------- LUNCH -------
 * 12:00: Begin quiz app
-* 2:00: Un-install and re-install xcode
+* 2:00: Uninstall and reinstall xcode
+* 3:00: re-attempt Tic Tac Toe app
