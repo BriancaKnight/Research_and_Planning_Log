@@ -79,4 +79,5 @@
 * 10:30: Create practice-wordpress site 
 * 11:30: Research headless cms / next js
 ------- LUNCH -------
-* 
+* ARIA on Wordpress https://www.elegantthemes.com/blog/wordpress/how-to-use-aria-in-your-wordpress-sites-html
+* Re-attempt quiz app
