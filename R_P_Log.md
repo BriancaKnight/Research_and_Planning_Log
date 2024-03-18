@@ -77,3 +77,6 @@
 * 9:00: Scrum
 * 9:15: Getting started with Wordpress https://wordpress.com/learn/courses/getting-started/start-here/
 * 10:30: Create practice-wordpress site 
+* 11:30: Research headless cms / next js
+------- LUNCH -------
+* 
