@@ -1,4 +1,7 @@
 ### Research & Planning Log
+
+------------- WEEK 1 -------------
+
 #### Monday, 03/11
 * 9:00: Warm up- revisit closures in LHTP and this video https://www.youtube.com/watch?v=vKJpN5FAeF4
 * 9:30: Research/begin downloading Xcode
@@ -64,3 +67,11 @@
 * 12:00: Begin quiz app
 * 2:00: Uninstall and reinstall xcode
 * 3:00: re-attempt Tic Tac Toe app
+* 4:30: cont Tic Tac Toe app 
+* 5:30: work on resume/portfolio
+
+------------- WEEK 2 -------------
+
+#### Monday, 3/18
+* 8:00: Warm up- whiteboard practice 
+* 9:00: Scrum
