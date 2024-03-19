@@ -91,4 +91,5 @@
 * 9:45: Fix old projects 
 * 10:45: Cont. Pierre's Sweet Treats
 ------- LUNCH -------
-* 1:00 Whiteboarding prep/session
+* 1:00: Whiteboarding prep/session
+* 2:30: Update accessibility Pierre's project
