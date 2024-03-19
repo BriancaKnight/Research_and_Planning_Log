@@ -88,3 +88,4 @@
 * 8:45: Begin exorcism's Swift lessons 
 * 9:00: Scrum & pair scrum 
 * 9:15: Cont. exorcism
+* 9:45: Fix old projects 
