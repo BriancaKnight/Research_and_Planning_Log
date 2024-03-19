@@ -87,3 +87,4 @@
 * 8:00: Warm up- graphs
 * 8:45: Begin exorcism's Swift lessons 
 * 9:00: Scrum & pair scrum 
+* 9:15: Cont. exorcism
