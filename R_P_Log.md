@@ -79,6 +79,11 @@
 * 10:30: Create practice-wordpress site 
 * 11:30: Research headless cms / next js
 ------- LUNCH -------
-* ARIA on Wordpress https://www.elegantthemes.com/blog/wordpress/how-to-use-aria-in-your-wordpress-sites-html
-* Re-attempt quiz app
-* Continuue quiz app 
+* 1:00: ARIA on Wordpress https://www.elegantthemes.com/blog/wordpress/how-to-use-aria-in-your-wordpress-sites-html
+* 1:30: Re-attempt quiz app
+* 3:00: Continue quiz app 
+
+#### Tuesday, 3/19
+* 8:00: Warm up- graphs
+* 8:45: Begin exorcism's Swift lessons 
+* 9:00: Scrum & pair scrum 
