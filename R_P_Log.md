@@ -89,3 +89,4 @@
 * 9:00: Scrum & pair scrum 
 * 9:15: Cont. exorcism
 * 9:45: Fix old projects 
+* 10:45: Cont. Pierre's Sweet Treats
