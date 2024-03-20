@@ -103,3 +103,4 @@
 * 10:00: Update photobooth API data
 * 11:30: Update client-side api
 ------- LUNCH -------
+* 12:15: revamp home page of photobooth site
