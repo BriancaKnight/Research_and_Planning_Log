@@ -101,3 +101,5 @@
 * 9:00: Scrum
 * 9:15: Begin updating photobooth website
 * 10:00: Update photobooth API data
+* 11:30: Update client-side api
+------- LUNCH -------
