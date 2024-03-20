@@ -93,3 +93,10 @@
 ------- LUNCH -------
 * 1:00: Whiteboarding prep/session
 * 2:30: Update accessibility Pierre's project
+* 3:30: Finish updating pierre's for portfolio
+
+#### Wednesday, 3/20
+* 8:00: Whiteboarding practice
+* 8:30: Exorcisim Swift practice
+* 9:00: Scrum
+* 9:15: 
