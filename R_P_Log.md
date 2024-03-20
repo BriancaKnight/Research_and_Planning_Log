@@ -106,3 +106,5 @@
 * 12:15: revamp home page of photobooth site
 * 1:30: attempt to fix git on photobooth client side 
 * 2:00: Update portfolio site
+* 3:00: Attempt to clean hard drive to optimize xcode 
+* 4:00: Begin applying for jobs
