@@ -104,3 +104,5 @@
 * 11:30: Update client-side api
 ------- LUNCH -------
 * 12:15: revamp home page of photobooth site
+* 1:30: attempt to fix git on photobooth client side 
+* 2:00: Update portfolio site
