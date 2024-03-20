@@ -99,4 +99,4 @@
 * 8:00: Whiteboarding practice
 * 8:30: Exorcisim Swift practice
 * 9:00: Scrum
-* 9:15: 
+* 9:15: Begin updating photobooth website
